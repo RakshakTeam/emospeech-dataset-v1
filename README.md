@@ -46,3 +46,15 @@ possible values of keywords,environments,emotion is described below:
  - glass break
  
  **NOTE** -  ```background``` represents absense of keyword, it is not an actual keyword, and ```unknown``` represents keyword that are not present in list
+
+## Citation
+
+Please consider citing.
+```
+@misc{1910.13801,
+Author = {Subham Banga and Ujjwal Upadhyay and Piyush Agarwal and Aniket Sharma and Prerana Mukherjee},
+Title = {Indian EmoSpeech Command Dataset: A dataset for emotion based speech recognition in the wild},
+Year = {2019},
+Eprint = {arXiv:1910.13801},
+}
+```
