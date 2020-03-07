@@ -30,6 +30,7 @@ possible values of keywords,environments,emotion is described below:
  - no
  - go
  - yes
+ - **unknown**
  - **background**
 
 ### Emotions:
@@ -44,4 +45,4 @@ possible values of keywords,environments,emotion is described below:
  - gunshots
  - glass break
  
- **NOTE** -  ```background``` represents absense of keyword, it is not an actual keyword
+ **NOTE** -  ```background``` represents absense of keyword, it is not an actual keyword, and ```unknown``` represents keyword that are not present in list
