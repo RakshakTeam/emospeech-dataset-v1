@@ -1,6 +1,8 @@
 ## EMOSPEECH-DATASET version 0.1
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
+### About
+
 > folder name represents the location from where the audio is collected.
 
 
@@ -41,14 +43,14 @@ possible values of keywords,environments,emotion is described below:
  - Calm
  - **None**
 
-## Environments:
+### Environments:
  - safe
  - gunshots
  - glass break
  
  **NOTE** -  ```background``` represents absense of keyword, it is not an actual keyword, and ```unknown``` represents keyword that are not present in list
 
-## Citation
+### Citation
 
 Please consider citing.
 ```
